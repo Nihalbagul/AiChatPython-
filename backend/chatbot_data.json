@@ -1,0 +1,18 @@
+{
+    "services": [
+      {
+        "category": "Plumbing Services",
+        "subcategories": [
+          {
+            "service": "Fixing Leaks and Clogs",
+            "minor_fixes": "For small leaks, apply plumber's tape or pipe sealant...",
+            "average_cost": "$100 - $200",
+            "replacement_time": "5-10 years for faucets, longer for pipes with regular maintenance."
+          }
+         
+        ]
+      }
+      
+    ]
+  }
+  
